@@ -8,13 +8,13 @@
 
 ## RealNode套餐
 
-|  套餐   | 每月流量  |月付 |
-|  ----  | ----  |     ----     |
+|  套餐   | 每月流量  |月付 |季付 |半年付 |年付 |
+|  :----:  | :----: |    :----:    |:----:|:----:|:----:| 
 | 体验节点  |  5G   |2.66元（重置包2.55元，限速1M）|
-| 标准套餐  | 100G |29.90元|
-| 专业套餐  | 200G |59.90元|
-| 至尊套餐  | 600G |99.90元|
-| Brilliant - Light  | 50G |349元（年付）|
+| 标准套餐  | 100G |29.90元|89元|170元|299元|
+| 专业套餐  | 200G |59.90元|178元|350元|598元|
+| 至尊套餐  | 600G |99.90元|295元|530元|990元|
+| Brilliant - Light  | 50G |349元（一年付）|559元（两年付）|699元（三年付）|
 
 
 均为免费SS / SSR / V2Ray节点。长期更新，长期有效，帮助更多用户免费地连接到世界互联网。节点流量充足，支持免流，可以看奈飞，因为是免费节点，速度无法保证。
@@ -39,7 +39,7 @@ ssr://NDUuMTMwLjE0Ni4xMzM6MjExNTg6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPV3Q1Lz
 ssr://NDUuOC4xNTguMTMxOjIxMTU4Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1d0NS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlRRJmdyb3VwPVRHNWpiaTV2Y21j
 ssr://NDUuODkuMjI5LjEyNDoyMTE1ODpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09XdDUvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUZyZncm91cD1URzVqYmk1dmNtYw
 ssr://NDUuOC4xNTguMjMwOjIxMTU4Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1d0NS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlR3Jmdyb3VwPVRHNWpiaTV2Y21j
-ssr://OTEuMjA2LjkyLjIyNzoyMTE1ODpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09XdDUvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZVQSZncm91cD1URzVqYmk1dmNtYw```
+ssr://OTEuMjA2LjkyLjIyNzoyMTE1ODpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09XdDUvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZVQSZncm91cD1URzVqYmk1dmNtYw
 ```
 ### 🚀免费v2rayN订阅列表
 
