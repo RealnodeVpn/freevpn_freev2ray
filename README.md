@@ -1,10 +1,10 @@
 # 2023最新免费v2ray节点分享--长期更新
 
 
-免费节点适合临时翻墙使用，如需高速稳定的IPLC专线节点，推荐注册[realnode](https://realnode.info/#/register?code=2SqmRqbN)
-，8K高清视频秒开起飞、解锁奈飞、chatgpt，自研安卓、mac、windows客户端一键链接上网无需任何配置，ios端正在研发中[点击注册](https://realnode.info/#/register?code=2SqmRqbN)
+免费节点适合临时翻墙使用，如需高速稳定的IPLC专线节点，推荐注册[realnode](https://realnode.info/#/register?code=VE4O9Smr)
+，8K高清视频秒开起飞、解锁奈飞、chatgpt，自研安卓、mac、windows客户端一键链接上网无需任何配置，ios端正在研发中[点击注册](https://realnode.info/#/register?code=VE4O9Smr)
 
-[![realnode](https://i.328888.xyz/2023/03/30/ikdpwv.png "realnode")](https://realnode.info/#/register?code=2SqmRqbN)
+[![realnode](https://i.328888.xyz/2023/03/30/ikdpwv.png "realnode")](https://realnode.info/#/register?code=VE4O9Smr)
 
 ## RealNode套餐
 
