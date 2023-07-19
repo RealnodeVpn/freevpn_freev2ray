@@ -127,5 +127,97 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4576O5Zu9W+WbveWkluebtOi/nl0i
 | Shadowrocket  |  |||[Shadowrocket](https://apps.apple.com/ca/app/shadowrocket/id932747118)|
 | Surage  |  ||[Surage](https://nssurge.com/)|[Surage](https://nssurge.com/)|
 
+## 翻墙后看什么
+当你成功使用机场节点翻墙出海之后，一定会十分好奇，翻出来了，有什么值得看的呢？
+
+翻墙后的第一件事情当然是使用谷歌搜索，来查找墙内搜不到的资源啦，墙外网络世界才是真正的互联网，相比大中华局域网的内容，丰富许多。
+
+推荐一些网民翻墙后常去的网站及常用的社交网络，以供参考：
+
+### 📱社交软件
+想必很多翻墙用户翻墙出海后第一选择就是注册常用的社交媒体账号，畅想和国外网友亲切交流，所以首先推荐的就是社交媒体网站。
+
+[Facebook](https://www.facebook.com/)，全球流行的社交软件，在墙外的地位和国内的微信差不多，熟人社交。最近几年明显衰落，公司改名为 meta，主攻元宇宙市场。
+
+[Twitter](https://twitter.com/)，一个资讯、短博文发布平台，和国内的微博平台类似。马斯克的公司。
+
+[Instagram](https://www.instagram.com/)，图片社交平台，很多人知道 ins 是因为一些明星、大V很爱使用 INS，所以这个软件在国内知名度也很高。
+
+[Telegram](https://telegram.org/)，一款高度加密、高颜值、纯粹的聊天工具。全球7亿人的选择，同时也是一款“老司机”必备 App。由于高度加密，这个平台上骗子、黑产也特别多。
+
+### 📺 视频网站
+[Youtube](https://www.youtube.com/)，世界上最大的视频网站，以用户上传的视频内容为主，也有付费订阅的电视剧和电影。
+
+[Netflix](https://www.netflix.com/)，全球最流行的流媒体订阅网站，中文叫做“奈飞”或“网飞”。Netflix 账号合租
+
+[Disney+](https://www.disneyplus.com/)，迪士尼旗下流媒体订阅平台，流媒体后起之秀，用户已经超越了 Netflix。诸多大片资源。Disney+账号合租
+
+[Twitch](https://www.twitch.tv/)，全球最大的视频直播网站，以游戏内容为主。
+
+[IMDB](https://www.imdb.com/)，电影资料库，你可以把它简单的理解为海外的“豆瓣电影”。
+
+### 📰新闻媒体
+[端传媒](https://theinitium.com/)，华语新闻之端，内容有深度且较为中立，付费订阅制，价格偏贵但值得订阅。
+
+[FT中文网](https://www.ftchinese.com/)，英国金融时报旗下网站。部分文章内容需要付费订阅解锁。
+
+[路透中文网](https://cn.reuters.com/)，路透社中文频道，内容质量高
+
+[华尔街日报](https://cn.wsj.com/)，华尔街日报的新闻质量可靠，也紧跟热点，部分文章很有深度，值得订阅。
+
+[BBC中文网](https://www.bbc.com/zhongwen/simp)，同样是高质量的新闻平台。
+
+### ✍️写作平台
+[WordPress](https://zh-cn.wordpress.com/)，博客及内容管理系统，你可以在.COM网站注册使用。或者使用.ORG网站的程序搭建自己的网站，支持中文。
+
+[Medium](https://medium.com/)，由推特联合创始人创办的高颜值博客平台。
+
+[Blogger](https://www.blogger.com/)，谷歌旗下博客平台。
+
+[Telegraph](https://telegra.ph/)，Telegram 官方推出的文章发布平台，主打匿名性。
+
+[Matters](https://matters.news/)，去中心化的写作平台，内容一经发布不可更改。
+
+[Steemit](https://steemit.com/)，去中心化的写作平台，内容一经发布不可更改。
+
+### 📥︎ 网盘服务
+[Google Dirve](https://drive.google.com/)，谷歌云盘使用十分方便，注册有谷歌账号即可自动开启。
+
+[Dropbox](https://www.dropbox.com/)，海外最流行的网盘服务，用户体验较好。
+
+[OneDrive](https://onedrive.live.com)，事实上Onedrive并没有被完全屏蔽，但国内直接访问速度很慢，需要开启VPN进行加速。
+
+[Mega](https://mega.io/)，端到端加密的网盘服务，付费套餐相比谷歌云盘和Dropbox更便宜。
+
+[Pikpak](https://mypikpak.com/)，一个新加坡公司开发的网盘，支持磁力链接下载，使用迅雷的下载引擎，老司机最喜爱的网盘。
+
+### 🧑🏼‍🎨设计相关
+[Dribbble](https://dribbble.com/)，平面设计、摄影师的灵感平台。
+
+[Behance](https://www.behance.net/)，Adobe 公司旗下的设计师作品展示平台。
+
+[Pixiv](https://www.pixiv.net/)，日本插画网站，有部分 18+ 成人内容。
+
+
+### 🔞成人内容
+⚠️未成年人浏览至此请自觉关闭页面！！！否则有害身心健康！
+
+[Pornhub](https://www.pornhub.com/)，世界上最大的成人网站，和 YouTube 比较相似的地方在于同样是以用户上传内容为主。
+
+[PlayNo1](http://www.playno1.com/).玩乐达人，华人最大成人新闻情报网站，如果你听说过“一剑浣春秋”的大名，必定知道此网站。
+
+[Porndude](https://theporndude.com/)，知名的成人网站导航站点
+
+[色花堂](https://www.sehuatang.org/)，又名 98 堂，知名成人网站。网上的中文字幕 JAV 多来自于此。
+
+[JavBus](https://www.javbus.com/)，知名的日本AV资源网站，提供多个磁力链接下载来源。
+
+[Hanime1](https://hanime1.me/)，知名的日本里番动漫在线播放网站，支持中文字幕，同时支持下载。
+
+### 🤖Ai网站
+[Chatgpt](https://chat.openai.com/auth/login)，OpenAI旗下地表最强AI聊天机器人。
+[Midjourney](https://www.midjourney.com/home/)，目前最强的AI绘画工具。
+[Ribbet.ai](https://ribbet.ai/)，免费在线AI图片处理编辑。
+[JasperAI](https://www.jasper.ai/)，文字内容创作工具。
 
 好用的机场,机场vpn,最好用的机场,机场节点,老牌机场推荐,免费节点,免费节点机场,v2ray机场,chatgpt专线,专线机场推荐,全球免费节点,机场节点推荐,翻墙节点,iplc专线节点,机场免费节点,免费机场节点,v2rayn 免费节点,v2ray中国节点,v2ray免费节点,机场节点购买,优秀的机场推荐,超级好用的机场,网速最快的机场,最稳定的机场节点,顶级机场推荐,值得购买的机场,网速最优秀的机场节点,最好的机场VPN服务,最受欢迎的机场推荐,快速稳定的机场服务,一流的机场节点推荐,最好的机场加速器,网速最稳定的机场VPN,高速稳定的机场服务,值得信赖的机场VPN服务,稳定的VPN机场推荐,专业的机场VPN服务,高速VPN机场节点,最佳的机场VPN节点,值得购买的VPN机场,稳定快速的机场VPN服务,最好的机场+VPN服务,一流的机场VPN服务推荐,最优秀的VPN机场服务,必备的机场VPN节点,最好的机场推荐,顶级的机场推荐,最优秀的机场服务,最佳的机场节点推荐,最稳定的机场服务,最快速的机场服务,最高速的机场推荐,最优质的机场节点,最良心的机场服务,最值得信赖的机场VPN服务,最受欢迎的机场VPN推荐,稳定的机场节点推荐,快速的机场节点服务,高速稳定的机场节点,最佳的机场节点服务,顶级的机场节点推荐,优质的机场节点服务,良心的机场节点推荐,口碑好的机场节点服务,最受欢迎的机场节点推荐,最优秀的机场节点VPN服务,老牌机场节点推荐,经典的机场服务推荐,最受欢迎的老牌机场,稳定的老牌机场节点,最好的老牌机场服务,老牌机场VPN推荐,最优秀的老牌机场节点服务,口碑好的老牌机场节点推荐,全球免费节点推荐,稳定的免费节点服务,免费节点VPN推荐,免费节点机场推荐,免费高速节点服务,免费优质节点推荐,免费稳定的机场节点,免费口碑好的节点服务,稳定的免费机场节点推荐,免费机场VPN服务推荐,免费高速机场节点,免费优质机场服务,口碑好的免费机场节点推荐,机场节点购买
