@@ -2,9 +2,9 @@
 
 
 免费节点均来自互联网抓取，适合临时翻墙使用，如需高速稳定的IPLC专线节点，推荐注册[realnode](https://realnode.info/index.php#/register?code=VE4O9Smr)
-，8K高清视频秒开起飞、解锁奈飞、chatgpt，自研安卓、mac、windows客户端一键链接上网无需任何配置，ios端正在研发中[点击注册](https://realnode.info/index.php#/register?code=VE4O9Smr),新用户注册免费使用5小时
+，8K高清视频秒开起飞、解锁奈飞、chatgpt，自研安卓、mac、windows、iphone客户端一键链接上网无需任何配置 [点击注册](https://realnode.info/index.php#/register?code=VE4O9Smr),新用户注册免费使用5小时。
 
-后续更新移步至：https://proxypool.fly.dev/
+后续免费节点更新移步至：https://proxypool.fly.dev/
 
 ## RealNode套餐
 
