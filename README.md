@@ -4,6 +4,8 @@
 免费节点均来自互联网抓取，适合临时翻墙使用，如需高速稳定的IPLC专线节点，推荐注册[realnode](https://realnode.info/index.php#/register?code=VE4O9Smr)
 ，8K高清视频秒开起飞、解锁奈飞、chatgpt，自研安卓、mac、windows客户端一键链接上网无需任何配置，ios端正在研发中[点击注册](https://realnode.info/index.php#/register?code=VE4O9Smr)
 
+后续更新移步至：https://proxypool.fly.dev/
+
 ## RealNode套餐
 
 |  套餐   | 每月流量  |月付 |季付 |半年付 |年付 |
@@ -24,6 +26,7 @@
 
 3️⃣ 新老用户通用半年付、年付、两年付、三年付优惠券，优惠券码为`abaDPOPI`，使用后可享受15元的优惠，适用于标准套餐、专业套餐、至尊套餐、帝皇套餐。
 
+全场优惠48%，优惠码在订阅页面
 
 均为免费SS / SSR / V2Ray节点。长期更新，长期有效，帮助更多用户免费地连接到世界互联网。节点流量充足，支持免流，可以看奈飞，因为是免费节点，速度无法保证。
 
